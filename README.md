@@ -10,15 +10,17 @@ Bienvenido, bienvenida y bienvenides al taller parcial corte #2.
 
 2. **Estructura del Proyecto:**
 
-  parqueadero
+ parqueadero
   |-- src
-  | -- main | -- java
-  | -- com | -- taller
-  | |-- Vehiculo.java
-  | |-- Automovil.java
-  | |-- Motocicleta.java
-  | -- Main.java -- pom.xml
-
+  |   `-- main
+  |       `-- java
+  |           `-- com
+  |               `-- taller
+  |                   |-- Vehiculo.java
+  |                   |-- Automovil.java
+  |                   |-- Motocicleta.java
+  |                   `-- Main.java
+  `-- pom.xml
   
 3. **Solucionar Error en `Motocicleta.java`:**
 - Soluciona el error mencionado en la clase `Motocicleta.java`.
