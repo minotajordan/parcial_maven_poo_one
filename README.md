@@ -1,5 +1,5 @@
-# parcial_maven_poo_oone
-Taller - Parcial
+
+# Taller - Parcial
 
 Bienvenido, bienvenida y bienvenides al taller parcial corte #2.
 
@@ -84,3 +84,5 @@ Bienvenido, bienvenida y bienvenides al taller parcial corte #2.
 ## Forma de Entrega:
 
 Sube el proyecto a un nuevo repositorio y envíalo en las fechas acordadas.
+
+Jordan Minota
