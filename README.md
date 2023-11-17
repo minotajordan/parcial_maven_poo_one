@@ -65,7 +65,7 @@ Bienvenido, bienvenida y bienvenides al taller parcial corte #2.
 9. **Añadir Atributos `hora de ingreso` y `hora de salida`:**
 - Añade los atributos `hora de ingreso` y `hora de salida` a las clases `Automovil` y `Motocicleta`.
 
-10. **Crear Endpoints para Registrar Hora de Salida:**
+10. **Crear Endpoints para Registrar Hora de Ingreso y Salida:**
  - Crea endpoints para registrar la hora de salida de motos y automóviles del parqueadero.
 
 11. **Crear Endpoints para Verificar Vehículos en el Parqueadero:**
@@ -81,7 +81,7 @@ Bienvenido, bienvenida y bienvenides al taller parcial corte #2.
 ## Extra
 
 13. **Generar Dos Endpoints para Total de Ganancias del Día:**
- - Quien desee, generar dos endpoints para saber el total de ganancias del día por autos, motos y en general.
+ - Quien desee, generar dos endpoints para saber el total de ganancias del día por autos y motos y en general.
 
 ## Forma de Entrega:
 
